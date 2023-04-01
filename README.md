@@ -1,4 +1,3 @@
-# whatsapp-chat-bot
 # WhatsApp Chat Bot
 
 A simple WhatsApp chat bot written in python 
