@@ -14,6 +14,7 @@ A simple WhatsApp chat bot written in python
 
 WhatsApp has a list of approved third-party providers on their website. These providers offer WhatsApp Business API integration solutions that allow businesses to send and receive messages on the WhatsApp platform. Some of the popular third-party providers include:
 
+
 1.Twilio
 2.Facebook Business API
 3.MessageBird
@@ -23,6 +24,7 @@ WhatsApp has a list of approved third-party providers on their website. These pr
 7.Sinch
 8.Mitto
 9.Yalo
+
 
 Each provider may offer different features and pricing plans, so it's important to do your research and choose the one that best fits your needs. Additionally, keep in mind that WhatsApp requires businesses to go through a verification process before they can start using the WhatsApp Business API, so you'll need to make sure you meet the requirements and have the necessary documentation before getting started.
 
