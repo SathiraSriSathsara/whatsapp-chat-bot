@@ -47,3 +47,12 @@ Yes, you can use the Facebook Business API to build chatbots for WhatsApp. The F
 To use the Facebook Business API for WhatsApp, you'll need to go through a verification process and obtain access to the WhatsApp Business API. Once you're approved, you can use the API to send and receive messages, automate responses, and perform other functions to improve your customer communication.
 
 Keep in mind that the Facebook Business API is a paid service, and pricing may vary depending on the features and volume of messages you need to send. Additionally, you'll need to follow Facebook's guidelines and policies to ensure that your chatbot complies with their terms of service.
+
+
+
+
+
+<div align="center">
+	<img src="dp-wp-yt-round.png" width="40" height="50">
+	<h4>Sathira Sri Sathsara @ 2023</h4>
+</div>	
