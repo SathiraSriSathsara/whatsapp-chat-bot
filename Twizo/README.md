@@ -15,8 +15,7 @@ To use Twizo for building a WhatsApp chatbot, you'll need to follow these steps:
 5. Build your chatbot: Once you've completed the integration with Twizo's API, you can start building your chatbot. Twizo provides documentation and tools to help you build your chatbot and automate your customer communication.
 
 
-Keep in mind that Twizo is a paid service, and pricing may vary depending on the features and volume of messages you need to send. Additionally, you'll need to follow Twizo's guidelines and policies to ensure that your chatbot complies with their terms of service.
 
-
+In this example, the 'send_message()' and 'receive_message()' functions use Twizo's API to send and receive messages, respectively. You'll need to replace 'your_twizo_api_key_here' with your actual Twizo API key.
 
 Keep in mind that you'll also need to modify the code that handles the message processing and logic to work with Twizo's API. This may involve updating the message format and structure, as well as any other functions or libraries that interact with the WhatsApp Business API.
